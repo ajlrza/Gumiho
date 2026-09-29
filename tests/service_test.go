@@ -1,4 +1,4 @@
-package test
+package service_test
 import "fmt"
 
 type Header struct {

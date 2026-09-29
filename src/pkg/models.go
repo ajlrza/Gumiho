@@ -1,5 +1,4 @@
-package app
-import "fmt"
+package models
 
 type Header struct {
 	Name string `json:"name"`
@@ -37,8 +36,4 @@ type Resource struct {
 
 type DockerCall struct {
 
-}
-
-func app() {
-	fmt.Println("App")
 }
