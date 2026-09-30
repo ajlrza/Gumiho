@@ -1,4 +1,5 @@
-# NetTorch
+# Gumiho
+A distributed systems platform made with Go, Docker, NGINX, for orchestrating and transmitting data payloads across remote GPU clusters, remote services, and remote servers with low-latency communication, containerized application, reverse proxying, and load balancing.
 
 ## Diagram Draft
 
