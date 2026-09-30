@@ -1,8 +1,6 @@
-# rl-distributed-computing
+# NetTorch
 
-Distributed computing system for [Imitation Learning](https://github.com/LeeMarshall1113/jetspace-imitation-learning)
-
-# Diagram Draft
+## Diagram Draft
 
 NOTE: For simplicity and diagram purposes, only 3 GPU resources were demonstrated in the diagram
 
